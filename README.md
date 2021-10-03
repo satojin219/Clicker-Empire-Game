@@ -14,6 +14,7 @@
 https://satojin219.github.io/Clicker-Empire-Game/
 
 ## **Screenshot**
-![2021-10-01 (1)](https://user-images.githubusercontent.com/81739310/135743497-3adef10b-9047-4ac1-82d5-d2b0a492a706.png)
 ![2021-10-01](https://user-images.githubusercontent.com/81739310/135743503-e172307c-bf10-42a2-96d9-7f436a1a6eca.png)
+
+![2021-10-01 (1)](https://user-images.githubusercontent.com/81739310/135743497-3adef10b-9047-4ac1-82d5-d2b0a492a706.png)
 

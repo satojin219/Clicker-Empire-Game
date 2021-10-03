@@ -10,11 +10,11 @@
 
 ※ユーザー名を" Millionaire"にすると5000万からスタートできます。
 
-## **url**
+## **URL**
 https://satojin219.github.io/Clicker-Empire-Game/
 
 ## **Screenshot**
-![2021-10-03 (6)](https://user-images.githubusercontent.com/81739310/135744455-0c2a883a-4e9f-4ee7-a33e-d1284ee4a52a.png)
 ![2021-10-03 (7)](https://user-images.githubusercontent.com/81739310/135744457-d983a848-cace-4967-9ecd-bb81b1a0568b.png)
+![2021-10-03 (6)](https://user-images.githubusercontent.com/81739310/135744455-0c2a883a-4e9f-4ee7-a33e-d1284ee4a52a.png)
 
 
